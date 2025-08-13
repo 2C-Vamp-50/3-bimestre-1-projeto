@@ -1,3 +1,5 @@
+<!-- Autor: gabriel henrique 3C 13.08.2025 -->
+
 document.addEventListener('DOMContentLoaded', function () {
     const botaoDeAcessibilidade = document.getElementById('botao-acessibilidade')
     const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade')
